@@ -1,9 +1,10 @@
-# 👋 Hi there! I'm João.
+👋 Hi there! I'm João.
 
-## 🚀 About Me
+🚀 **About Me:**
+
 I am a backend developer who helps build financial management systems 💰 for shopping centers at [**Studio VS**](https://www.linkedin.com/company/studio-vs/posts/?feedView=all).
 
-## 🎉 Hobbies 
+🎉 **Hobbies:** 
 - Sipping coffee ☕
 - Hanging out with dogs 🐶
 - Getting lost in a good book 📚    
