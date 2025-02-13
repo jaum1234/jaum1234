@@ -10,3 +10,5 @@ I am a backend developer who helps build financial management systems 💰 for s
 - Getting lost in a good book 📚    
 
 Find me on [**LinkedIn**](https://www.linkedin.com/in/joao-vitor-de-souza-coura-b435381a9/) or send me an email: joaovitorsouzacoura@gmail.com.
+
+Follow me on Gitlab: https://gitlab.com/jaum1234
